@@ -1,9 +1,9 @@
 {
   "name": "@avalabs/posthog-route-censor-plugin",
-  "version": "3.0.22",
+  "version": "3.0.23",
   "description": "Removes route variables from the URLs stored in posthog.",
   "author": "Connor Chevli <connor.chevli@avalabs.org>",
-  "main": "index.js",
+  "main": "dist/index.js",
   "private": false,
   "license": "BSD-3-Clause",
   "keywords": [
